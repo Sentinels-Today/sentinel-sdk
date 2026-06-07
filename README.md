@@ -1,6 +1,6 @@
 # @sentinels/sdk
 
-**TypeScript SDK for the Sentinel Labs trust stack** — Ed25519 device identity, attestation claims, deterministic trust scoring, hash-chained audit logs, and a thin HTTP client for `sentinel-cloud`.
+**TypeScript SDK for the Sentinels trust stack** — Ed25519 device identity, attestation claims, deterministic trust scoring, hash-chained audit logs, and a thin HTTP client for `sentinel-cloud`.
 
 [![ci](https://github.com/Sentinels-Today/sentinel-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-sdk/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
