@@ -4,7 +4,7 @@
 
 [![ci](https://github.com/Sentinels-Today/sentinel-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-sdk/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
-![node](https://img.shields.io/badge/node-%E2%89%A518-green)
+![node](https://img.shields.io/badge/node-%E2%89%A520-green)
 
 ## Install
 
