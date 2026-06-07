@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "TypeScript SDK for Sentinel Labs trust infrastructure",
   "license": "Apache-2.0",
-  "author": "Sentinel Labs <hello@sentinels.today>",
+  "author": "Sentinel Labs <admin@sentinels.today>",
   "homepage": "https://sentinels.today",
   "repository": {
     "type": "git",
